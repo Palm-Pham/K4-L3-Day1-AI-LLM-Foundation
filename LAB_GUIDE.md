@@ -539,9 +539,14 @@ Kỳ vọng: **10 passed**. Thử nhanh với Python REPL:
 >>> from template import count_tokens, estimate_cost
 >>> count_tokens("Xin chào Việt Nam")
 7        # con số có thể khác chút tùy encoding
+# for my case is '4'
+
 >>> estimate_cost("câu hỏi dài...", "câu trả lời dài...")["total_cost"]
 0.000123...
+# my case is '4.75e-05'
+
 ```
+
 Trả lời **Câu 2.1 → 2.2** trong `exercises.md` (cần API key để chạy so sánh
 persona thật).
 

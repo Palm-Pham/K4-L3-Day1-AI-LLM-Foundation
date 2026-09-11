@@ -1,0 +1,16 @@
+prompt: create a simple stack in C language
+
+Time to first token: 62.83 seconds
+Total response time: 73.89 seconds
+
+Explain how large language models work in simple terms
+
+Time to first token: 37.40 seconds
+Total response time: 57.57 seconds
+
+A model has high training accuracy but low test accuracy. Explain the likely problem and suggest three solutions.
+
+Time to first token: 29.63 seconds
+Total response time: 31.51 seconds
+
+dùng chat trên IDE, cách để optimize : giao 1 task cụ thể, để tránh bị mở/đóng/đọc file liên tục
